@@ -1,0 +1,36 @@
+* {
+    font-family: "Comics Sans", "Times New Roman", sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+img {
+    display: block;
+    height: 310px;
+    width: 310px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    color: darkcyan;
+}
+
+.description,
+.ingredients,
+.instructions {
+    font-size: 20px;
+}
+
+.description {
+    text-align: justify;
+}
+
+#ten {
+    font-weight: bold;
+    text-align: center;
+    font-size: 24px;
+}

@@ -1,0 +1,25 @@
+* {
+    font-family: "Comic Sans", "Times New Roman", sans-serif;
+}
+
+
+h1 {
+    background-color: red;
+    color: black;
+    text-align: center;
+}
+
+.recipe {
+    font-size: 22px;
+    color: blue;
+    font-weight: bold;
+    text-align: left;
+}
+
+.dinner {
+    background-color: lightblue;
+}
+
+.dessert {
+    background-color: lavender;
+}
